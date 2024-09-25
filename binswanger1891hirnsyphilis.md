@@ -4,6 +4,10 @@ von
 
 *Prof. Dr. O. Binswanger* in Jena.
 
+<!---
+See README.md file for advice on editing.
+-->
+
 Die neueren Bearbeiter der syphilitischen Erkrankungen des Centraluervensystems-
 ich nenne vor Allen Rumpf, Strümpell, Gowers — haben auch die allgemeine progressive
 Paralyse der Irren in den Kreis ihrer Betrachtungen hineingezogen. Abgesehen von den
